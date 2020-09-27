@@ -2,9 +2,9 @@
 
 IL2CPP でビルドされたかどうかを返すクラス
 
-# 使用例
+## 使用例
 
-## 通常
+### 通常
 
 ```cs
 using UnityEngine;
@@ -24,7 +24,7 @@ public class Example : MonoBehaviour
 }
 ```
 
-## UniIL2CPPChecker
+### UniIL2CPPChecker
 
 ```cs
 using Kogane;
